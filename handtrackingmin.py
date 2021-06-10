@@ -41,7 +41,7 @@ while True:
     cv2.waitKey(1)
 
 
-# TODO min 37.40
+# TODO min 49.22
 
 
 
